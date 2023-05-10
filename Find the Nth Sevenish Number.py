@@ -24,6 +24,7 @@ def get_nth_sevenish(n):
     return sevenish_nums[-1]
 
 
+
 # Tests
 assert get_nth_sevenish(1) == 1
 assert get_nth_sevenish(2) == 7
